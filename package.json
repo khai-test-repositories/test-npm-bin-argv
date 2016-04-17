@@ -1,0 +1,6 @@
+
+{
+  "name": "test-npm-bin-argv",
+  "version": "0.0.0",
+  "bin": "bin.js"
+}
